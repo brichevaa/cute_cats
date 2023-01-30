@@ -24,10 +24,13 @@
 
 .card__name {
     font-size: 18px;
+    font-family: "Roboto";
+    font-style: italic;
     font-weight: normal;
     position: absolute;
     top: -80px;
     left: -120px;
+    color: rgb(78, 78, 79);
 }
 
 .card__name:hover:after {
